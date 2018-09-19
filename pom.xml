@@ -6,7 +6,7 @@
 	<groupId>com.musicalbum</groupId>
 	<artifactId>musicalbum</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>musicalbum</name>
 	<description>Demo project for Spring PCF</description>
