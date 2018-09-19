@@ -6,7 +6,7 @@
 	<groupId>com.musicalbum</groupId>
 	<artifactId>musicalbum</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>musicalbum</name>
 	<description>Demo project for Spring PCF</description>
@@ -116,12 +116,7 @@
 		    <artifactId>spring-cloud-spring-service-connector</artifactId>
 		    <version>2.0.1.RELEASE</version>
 		</dependency>
-		
-		<dependency>
-         <groupId>org.springframework.boot</groupId>
-         <artifactId>spring-boot-starter-tomcat</artifactId>
-         <scope>provided</scope>
-     	</dependency>
+
 	</dependencies>
 
 	<build>
