@@ -15,4 +15,5 @@ public class MusicalbumApplication extends SpringBootServletInitializer {
                 .application()
                 .run(args);
     }
+    
 }
